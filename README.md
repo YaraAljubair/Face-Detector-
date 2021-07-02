@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/83831497/124335328-9c654700-dba2-11eb-85e4-77497a7cbffa.mp4
+
 # Face-Detector-
 In this project I used python programming language and one of its packages opencv<ul>
 <li> I had to install the opencv package first on Windows and import it in pycharm then I tested the camera and at first two windows opened one with normal colors the other was more gray</li>
